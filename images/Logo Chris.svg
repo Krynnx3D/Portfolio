@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2000 2000" style="enable-background:new 0 0 2000 2000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#771820;}
+	.st1{fill:#CF3333;}
+	.st2{fill:#05090F;}
+	.st3{clip-path:url(#SVGID_00000072271930938992552990000007370497601518379440_);fill:#CF3333;}
+	.st4{fill:#AC2329;}
+	.st5{fill:#77161F;}
+</style>
+<rect x="0.2" class="st0" width="2000" height="2000"/>
+<g id="Logo">
+	<g>
+		<g>
+			<path class="st1" d="M1000.01,1865.8c-477.4,0-865.8-388.41-865.8-865.8s388.39-865.8,865.8-865.8s865.78,388.41,865.78,865.8
+				S1477.41,1865.8,1000.01,1865.8z M1000.01,285.79c-393.82,0-714.21,320.39-714.21,714.21s320.39,714.21,714.21,714.21
+				c393.8,0,714.19-320.39,714.19-714.21S1393.81,285.79,1000.01,285.79z M1000.01,60.33C481.88,60.33,60.35,481.86,60.35,1000
+				s421.53,939.67,939.67,939.67c518.11,0,939.64-421.53,939.64-939.67S1518.12,60.33,1000.01,60.33z"/>
+			<circle class="st2" cx="1000.01" cy="1000" r="594.48"/>
+		</g>
+		<g>
+			<defs>
+				<circle id="SVGID_1_" cx="1000.01" cy="1000" r="790"/>
+			</defs>
+			<clipPath id="SVGID_00000013195258350661167920000010595530526456427966_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<rect x="-9" y="-789.12" style="clip-path:url(#SVGID_00000013195258350661167920000010595530526456427966_);fill:#CF3333;" width="2012.63" height="1247.2"/>
+			
+				<rect x="-9" y="1536.73" style="clip-path:url(#SVGID_00000013195258350661167920000010595530526456427966_);fill:#CF3333;" width="2012.63" height="1247.2"/>
+		</g>
+		<g>
+			<polygon class="st4" points="516.18,997.71 659.84,997.71 1000.2,657.34 1000.2,513.52 			"/>
+			<polygon class="st5" points="1000.12,1481.43 1000.12,1337.77 659.75,997.41 515.93,997.41 			"/>
+			<polygon class="st4" points="1483.84,997.49 1340.18,997.49 999.81,1337.86 999.81,1481.68 			"/>
+			<polygon class="st5" points="999.9,513.77 999.9,657.43 1340.26,997.8 1484.08,997.8 			"/>
+			
+				<rect x="759.27" y="756.67" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -412.3775 999.2463)" class="st1" width="481.47" height="481.47"/>
+		</g>
+	</g>
+</g>
+</svg>
